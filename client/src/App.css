@@ -1,0 +1,11 @@
+
+body{
+  background-color: rgb(20, 20, 20);
+}
+.home{
+  background-image: url('../public/bg.jpg');
+  background-position: center;
+  background-size: 100rem;
+  
+  object-fit: contain;
+}
